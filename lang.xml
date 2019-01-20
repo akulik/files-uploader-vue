@@ -1,0 +1,530 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook
+  xmlns:x="urn:schemas-microsoft-com:office:excel"
+  xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+  xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet">
+
+<Styles>
+ <Style ss:ID="Default" ss:Name="Normal">
+  <Alignment ss:Vertical="Bottom"/>
+  <Borders/>
+  <Font/>
+  <Interior/>
+  <NumberFormat/>
+  <Protection/>
+ </Style>
+ <Style ss:ID="s27">
+  <Font x:Family="Swiss" ss:Color="#0000FF" ss:Bold="1"/>
+ </Style>
+ <Style ss:ID="s21">
+  <NumberFormat ss:Format="yyyy\-mm\-dd"/>
+ </Style>
+ <Style ss:ID="s22">
+  <NumberFormat ss:Format="yyyy\-mm\-dd\ hh:mm:ss"/>
+ </Style>
+ <Style ss:ID="s23">
+  <NumberFormat ss:Format="hh:mm:ss"/>
+ </Style>
+</Styles>
+
+ <Worksheet ss:Name="Sheet1">
+  <ss:Table>
+   <ss:Row>
+    <ss:Cell  ss:StyleID="s27"><Data ss:Type="String">key_id</Data></ss:Cell>
+    <ss:Cell  ss:StyleID="s27"><Data ss:Type="String">key_name</Data></ss:Cell>
+    <ss:Cell  ss:StyleID="s27"><Data ss:Type="String">group_name</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">2333</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">sent-a-photo</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">push</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">2334</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">sent-you-x-coupon</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">push</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">2335</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">chat-image-checked</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">chat images</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">2336</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">chat-image-approve</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">chat images</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">2337</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">chat-image-new</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">chat images</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">2338</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">chat-image-approved</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">chat images</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">2339</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">chat-image-banned</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">chat images</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">2340</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">chat-image-multiply-approve</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">chat images</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">2341</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">chat-image-ban</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">chat images</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">2342</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">chat-image-reading-history</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">chat images</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">2343</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">chat-image-main</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">chat images</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">2344</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">chat-image-thumbnail</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">chat images</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">2345</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">write-short-review</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">chat</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">2346</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">end-offline-chat</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">chat</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">2348</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">call-back</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">chat</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">2349</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">offline-chat</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">chat</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">2350</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">you-tipped</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">chat</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">2351</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">you-have-been-tipped</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">chat</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">2352</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">chose</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">chat</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">2353</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">h</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">chat</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">2354</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">s</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">chat</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">2355</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">user-reconnecting</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">chat</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">2356</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">advisor</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">one word lang</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">2357</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">expert</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">one word lang</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">2358</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">top-up-bonus</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">transaction</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">2359</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">grid-title-use-extend</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">grid</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">2373</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">seo-meta-title</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">seo metadata</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">2374</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">seo-meta-title-with-second-cat</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">seo metadata</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">2375</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">seo-meta-description</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">seo metadata</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">2376</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">seo-main-page-h1</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">seo metadata</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">2377</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">seo-main-page-description</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">seo metadata</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">2378</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">seo-settings-tab</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">seo settings</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">2379</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">seo-manager</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">grid</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">2380</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">seo-static-pages</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">grid</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">2381</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">seo-categories</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">grid</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">2382</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">seo-articles</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">grid</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">2383</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">seo-questions</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">grid</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">2384</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">grid-edit-seo-entity</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">grid</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">2385</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">grid-remove-seo-entity</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">grid</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">2386</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">tub-advisor-chat-stat</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">menu</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">2387</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">filter-advisor-chat-stat-50</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">filters</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">2388</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">filter-advisor-chat-stat-100</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">filters</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">2389</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">tr-withdrawal-wire-note</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">transaction</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">2390</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">seo-name-title</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">seo langs</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">2391</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">seo-cat-descr</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">seo langs</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">2392</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">user-cannot-be-deleted</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">seo langs</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">2393</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">seo-q-name-title</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">seo langs</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">2394</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">seo-q-descr</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">seo langs</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">2395</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">you-have-3-minutes-remaining</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">system-message</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">2396</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">steps-select-advisor</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">steps</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">2397</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">steps-verification</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">steps</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">2398</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">steps-get-free-advice</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">steps</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">2399</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">welcome-popup-content-mini</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">steps</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">2400</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">welcome-popup-content-default</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">steps</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">2401</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">btn-start-free-chat</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">steps</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">2402</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">btn-card-validate</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">payments</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">2403</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">psychic</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Landing chat langs</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">2404</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">psychics</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Landing chat langs</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">2405</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">psychic-readers</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Landing chat langs</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">2406</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">psychic-chat-readings</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Landing chat langs</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">2407</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">psychic-readings</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Landing chat langs</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">2408</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">notify-coupon-free-minutes-end</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">chat</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">2409</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">regular-reader-rate-applies</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Popup message</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">2410</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">login</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Popup message</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">2411</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">staticpage-indexed</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">staticpage</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">2412</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">staticpage-indexed-yes</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">staticpage</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">2413</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">staticpage-indexed-no</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">staticpage</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">2414</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">get-x-coupon-percent</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">coupon label</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">2415</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">menu-badwordsinchat</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">menu</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">2416</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">grid-title-badwordsinchat-bad_word</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">grid</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">2417</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">grid-title-badwordsinchat-combination</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">grid</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">2418</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">grid-title-badwordsinchat-where_used</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">grid</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">2419</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">messages-badwordsinchat-created</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">messages</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">2420</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">messages-badwordsinchat-updated</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">messages</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">2421</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">messages-badwordsinchat-deleted</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">messages</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">2422</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">errors-wrong-badwordsinchat</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">errors</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">2423</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">error-badwordsinchat-bad_word-is-required</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">errors</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">2424</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">error-badwordsinchat-key-exist</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">errors</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">2425</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">error-badwordsinchat-where_used-incorrect</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">errors</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">2426</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">select-badwordsinchat-chat</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">filters</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">2427</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">select-badwordsinchat-message</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">filters</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">2428</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">filter-locale-code</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">filters</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">2429</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">grid-title-locale-code</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">menu</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">2430</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">brands</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">brands</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">2431</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">add_new_lang</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">brands</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">2432</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">error-while-delete-locale</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">errors</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">2433</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">please-fill-all-required-fields</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">errors</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">2434</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">can-not-delete-default-lang</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">errors</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">2435</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">button-appeal</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">button</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">2436</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">error-get-coupon-free</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">error message</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">2437</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">error-get-coupon-another</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">error message</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">2438</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">errors-value-already-exists</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">error</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">2439</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">menu-coupon-utm-campaign</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">menu</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">2440</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">coupon-utm-campaigns</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">grid</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">2441</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">grid-utm-campaigns</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">grid</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">2442</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">btn-add-utm-campaign</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">buttons</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">2443</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">error-field-is-required</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">errors</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">2444</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">you-can-add-more-time-at-the-end</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">socket</Data></ss:Cell>
+   </ss:Row>
+  </ss:Table>
+ </Worksheet>
+</Workbook>
